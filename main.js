@@ -34,8 +34,6 @@ const destinations = [
     {
         title: "Harvard Science Center",
         image: "https://images.pexels.com/photos/618833/pexels-photo-618833.jpeg",
-        title: "Stanford Linear Accelerator Center",
-        image: "https://images.pexels.com/photos/618833/pexels-photo-618833.jpeg"
     },
     {
         title: "Tokyo Institute of Technology",
