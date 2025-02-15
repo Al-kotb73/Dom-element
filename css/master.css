@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+.section-content{
+    padding: 1.125rem 0;
+    .card{
+        border: none;
+        padding: 0;
+        margin: 0;
+        img{
+            border-radius: 10px;
+        }
+        h3{
+            margin: 1em 0;
+            font-size: 1.125rem;
+        }
+        /* width: 500px; */
+    }
+}
